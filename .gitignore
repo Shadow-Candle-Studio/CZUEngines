@@ -17,3 +17,8 @@
 *
 !*/
 
+#only source files will be stored
+!/UE/Engine/Source/
+!/UE/Engine/Config/
+!/UE/Engine/Shaders/
+
