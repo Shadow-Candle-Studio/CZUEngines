@@ -23,6 +23,6 @@
 !/UE/Engine/Config/
 !/UE/Engine/Shaders/
 !/UE/Engine/Programs/
+!/UE/GenerateVSCodeProjectFiles.bat
 
-!/UE/UE5.code-workspace
 
